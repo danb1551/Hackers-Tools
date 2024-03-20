@@ -15,6 +15,9 @@
   pkg install python
   pip install requests
   pkg install git
+  pip install requests
+  pip install colorama
+  pip install instabot
 ```
 - for installing the tools that you need to work 
 
