@@ -11,6 +11,8 @@
   pip install requests
   pkg install git
 ```
+
+```
   git clone https://github.com/danb1551/Hackers-Tools.git
   cd Hackers-Tools
   python main.py
