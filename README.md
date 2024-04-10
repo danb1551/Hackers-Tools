@@ -18,6 +18,8 @@
   pip install requests
   pip install colorama
   pip install instabot
+  pip install termcolor
+  pip install halo
 ```
 - for installing the tools that you need to work 
 
