@@ -22,7 +22,7 @@
 - for installing the tools that you need to work 
 
 ```
-  git clone https://github.com/danb1551/Hackers-Tools.git
+  git clone https://github.com/danb1551/Hackers-Tools
   cd Hackers-Tools
   python main.py
 ```
