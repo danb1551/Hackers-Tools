@@ -27,6 +27,7 @@ def hlavni_cast():
     print(Fore.MAGENTA + "#.....................................................................#")
     print(Fore.CYAN + "#.....................................................................#")
     print(Fore.RED + "#######################################################################")
+    print("!!!!....The code is not fully completed. Use with caution. I update code in the future....!!!!")
 
 vycistit()
 hlavni_cast()
