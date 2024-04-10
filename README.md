@@ -26,4 +26,4 @@
   cd Hackers-Tools
   python main.py
 ```
--to download, open repository and start the main python file
+- to download, open repository and start the main python file
