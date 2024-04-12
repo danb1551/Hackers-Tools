@@ -22,11 +22,12 @@
   pip install halo
   pip install urllib3
 ```
-- for installing the tools that you need to work 
+- for installing the tools that you need to work
 
 ```
   git clone https://github.com/danb1551/Hackers-Tools
   cd Hackers-Tools
+  python requirements.py
   python main.py
 ```
 - to download, open repository and start the main python file
