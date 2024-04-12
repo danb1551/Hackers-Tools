@@ -20,6 +20,7 @@
   pip install instabot
   pip install termcolor
   pip install halo
+  pip install urllib3
 ```
 - for installing the tools that you need to work 
 
