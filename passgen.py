@@ -1,4 +1,7 @@
 import subprocess
+import colorama
+from colorama import init, Fore, Back, Style
+import time, os
 
 def vycistit():
     if os.name == "nt":
